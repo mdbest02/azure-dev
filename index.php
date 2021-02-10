@@ -1,5 +1,6 @@
 <html>
 <body>
+  Start Query maken <br>
   <?php
 
   $leeftijden = array(
